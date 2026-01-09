@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\mbryc\\Downloads\\MackBMiniChallenge#2\\MackBMiniChallenge#2.csproj": {}
+    "/Users/brandonestrada/Documents/Code Stack Academy/git repo reviews/MackBMiniChallenge-2/MackBMiniChallenge#2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\mbryc\\Downloads\\MackBMiniChallenge#2\\MackBMiniChallenge#2.csproj": {
+    "/Users/brandonestrada/Documents/Code Stack Academy/git repo reviews/MackBMiniChallenge-2/MackBMiniChallenge#2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mbryc\\Downloads\\MackBMiniChallenge#2\\MackBMiniChallenge#2.csproj",
+        "projectUniqueName": "/Users/brandonestrada/Documents/Code Stack Academy/git repo reviews/MackBMiniChallenge-2/MackBMiniChallenge#2.csproj",
         "projectName": "MackBMiniChallenge#2",
-        "projectPath": "C:\\Users\\mbryc\\Downloads\\MackBMiniChallenge#2\\MackBMiniChallenge#2.csproj",
-        "packagesPath": "C:\\Users\\mbryc\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mbryc\\Downloads\\MackBMiniChallenge#2\\obj\\",
+        "projectPath": "/Users/brandonestrada/Documents/Code Stack Academy/git repo reviews/MackBMiniChallenge-2/MackBMiniChallenge#2.csproj",
+        "packagesPath": "/Users/brandonestrada/.nuget/packages/",
+        "outputPath": "/Users/brandonestrada/Documents/Code Stack Academy/git repo reviews/MackBMiniChallenge-2/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\mbryc\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "/Users/brandonestrada/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net9.0"
@@ -92,7 +92,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.305/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.305/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

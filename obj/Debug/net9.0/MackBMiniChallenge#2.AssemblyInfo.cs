@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MackBMiniChallenge#2")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+28377fde5cadc97d68880c5dd10e49e1d1ba42ba")]
 [assembly: System.Reflection.AssemblyProductAttribute("MackBMiniChallenge#2")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MackBMiniChallenge#2")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
